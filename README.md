@@ -3,6 +3,8 @@
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=ChristopherNeill.notetaker)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+![YouTube](https://user-images.githubusercontent.com/58280924/76047154-96684300-5f27-11ea-9cf8-f123eaec332a.jpeg)
+
 ​
 ## Description
 
