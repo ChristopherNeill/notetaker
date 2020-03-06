@@ -5,10 +5,11 @@
 
 ![YouTube](https://user-images.githubusercontent.com/58280924/76047154-96684300-5f27-11ea-9cf8-f123eaec332a.jpeg)
 
-​
+​<https://notetakermaster.herokuapp.com/>
+
 ## Description
 
-a program written utilizing the express framework to take notes running of of a server.js file that connects all the files the front end was provided. So all the work was connecting the front and the back end.
+A program written utilizing the express framework to take notes. This is run from the server.js file, it connects all the files from the front end which was provided. 
 
 ## Table of Contents 
 * [Installation](#installation)
